@@ -7,7 +7,7 @@
         <mxCell id="n3QeipA27McAt8WgNsEZ-1" value="Entity Object" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="544" y="138" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-2" value="Control Object" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3QeipA27McAt8WgNsEZ-2" value="验证服务" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="383" y="138" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-3" value="添加学生页面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
