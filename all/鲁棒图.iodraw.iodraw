@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n3QeipA27McAt8WgNsEZ-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-1" target="n3QeipA27McAt8WgNsEZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-1" value="学生" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="506" y="43" width="80" height="80" as="geometry" />
         </mxCell>
@@ -50,7 +53,7 @@
           <mxGeometry x="381" y="138" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-10" value="课程" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="516" y="215" width="80" height="80" as="geometry" />
+          <mxGeometry x="511" y="142" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-4" target="n3QeipA27McAt8WgNsEZ-6">
           <mxGeometry relative="1" as="geometry" />
