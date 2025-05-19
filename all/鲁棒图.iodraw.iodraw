@@ -29,14 +29,6 @@
         <mxCell id="n3QeipA27McAt8WgNsEZ-4" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="116" y="148" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-5" target="n3QeipA27McAt8WgNsEZ-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="345" y="175" />
-              <mxPoint x="345" y="178" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-5" value="课程选择组件" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="218" y="135" width="100" height="80" as="geometry" />
         </mxCell>
@@ -56,6 +48,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-4" target="n3QeipA27McAt8WgNsEZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n3QeipA27McAt8WgNsEZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.029;entryY=0.481;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-5" target="n3QeipA27McAt8WgNsEZ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
