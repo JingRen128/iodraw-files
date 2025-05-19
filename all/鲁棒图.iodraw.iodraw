@@ -10,7 +10,7 @@
         <mxCell id="n3QeipA27McAt8WgNsEZ-1" value="学生" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="506" y="43" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-2">
+        <mxCell id="n3QeipA27McAt8WgNsEZ-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="319" y="282" as="targetPoint" />
           </mxGeometry>
