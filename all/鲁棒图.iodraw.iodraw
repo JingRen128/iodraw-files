@@ -37,10 +37,10 @@
             <mxPoint x="375" y="86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-5" value="课程选择组件" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3QeipA27McAt8WgNsEZ-5" value="学生列表" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="218" y="135" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-6" value="结果提示页面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3QeipA27McAt8WgNsEZ-6" value="分配结果页面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="218" y="242" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-8" target="n3QeipA27McAt8WgNsEZ-9">
