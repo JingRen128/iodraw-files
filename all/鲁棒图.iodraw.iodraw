@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="n3QeipA27McAt8WgNsEZ-1" value="Entity Object" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="544" y="138" width="80" height="80" as="geometry" />
+          <mxGeometry x="535" y="122" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-2" value="验证服务" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="242" width="70" height="80" as="geometry" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-9" value="选课处理" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="138" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n3QeipA27McAt8WgNsEZ-10" value="Entity Object" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548" y="229" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
