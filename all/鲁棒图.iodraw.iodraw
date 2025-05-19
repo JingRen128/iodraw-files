@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-2" value="验证服务" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="242" width="70" height="80" as="geometry" />
+          <mxGeometry x="381" y="242" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-3" target="n3QeipA27McAt8WgNsEZ-8">
           <mxGeometry relative="1" as="geometry" />
