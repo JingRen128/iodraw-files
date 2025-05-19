@@ -15,7 +15,7 @@
             <mxPoint x="319" y="282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-2" value="验证服务" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3QeipA27McAt8WgNsEZ-2" value="分配验证" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="242" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-3" target="n3QeipA27McAt8WgNsEZ-8">
@@ -49,7 +49,7 @@
         <mxCell id="n3QeipA27McAt8WgNsEZ-8" value="教师管理" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="21" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-9" value="选课处理" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3QeipA27McAt8WgNsEZ-9" value="学生分配" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="138" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-10" value="课程" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
