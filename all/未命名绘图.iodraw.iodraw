@@ -6,10 +6,13 @@
         <mxCell id="1" parent="0" />
         <mxCell id="jmvSO9D0EGjqj4rrF8vX-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="576" y="113" as="sourcePoint" />
-            <mxPoint x="576" y="209" as="targetPoint" />
+            <mxPoint x="603" y="109" as="sourcePoint" />
+            <mxPoint x="603" y="205" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jmvSO9D0EGjqj4rrF8vX-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="418" y="113" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
