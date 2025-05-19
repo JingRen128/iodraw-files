@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-2" value="分配验证" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="381" y="242" width="70" height="80" as="geometry" />
+          <mxGeometry x="378.5" y="169" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-3" target="n3QeipA27McAt8WgNsEZ-8">
           <mxGeometry relative="1" as="geometry" />
@@ -43,14 +43,13 @@
         <mxCell id="n3QeipA27McAt8WgNsEZ-6" value="分配结果页面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="218" y="242" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-8" target="n3QeipA27McAt8WgNsEZ-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="n3QeipA27McAt8WgNsEZ-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.7690450543512" y="138.00965717373765" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-8" value="分配学生" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="34" width="70" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-9" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="138" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-10" value="教师" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511" y="142" width="80" height="80" as="geometry" />
@@ -59,9 +58,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-4" target="n3QeipA27McAt8WgNsEZ-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.443;entryY=0.194;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-9" target="n3QeipA27McAt8WgNsEZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-10" target="n3QeipA27McAt8WgNsEZ-8">
