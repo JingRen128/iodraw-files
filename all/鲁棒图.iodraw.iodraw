@@ -29,12 +29,6 @@
         <mxCell id="n3QeipA27McAt8WgNsEZ-4" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="116" y="148" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.865;exitY=0.169;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375" y="86" as="targetPoint" />
-            <mxPoint x="304.5" y="148.51999999999998" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-6" value="选课结果页面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="218" y="176" width="100" height="80" as="geometry" />
         </mxCell>
@@ -50,7 +44,7 @@
         <mxCell id="n3QeipA27McAt8WgNsEZ-8" value="选课" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="34" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-10" value="教师" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3QeipA27McAt8WgNsEZ-10" value="课程" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511" y="142" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-4" target="n3QeipA27McAt8WgNsEZ-6">
