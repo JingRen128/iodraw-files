@@ -52,7 +52,7 @@
         <mxCell id="n3QeipA27McAt8WgNsEZ-9" value="学生分配" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="138" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n3QeipA27McAt8WgNsEZ-10" value="课程" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n3QeipA27McAt8WgNsEZ-10" value="教师" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511" y="142" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3QeipA27McAt8WgNsEZ-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n3QeipA27McAt8WgNsEZ-4" target="n3QeipA27McAt8WgNsEZ-6">
