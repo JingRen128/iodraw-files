@@ -7,6 +7,12 @@
         <mxCell id="KR4HFn2Wtcdx5S1_QDzc-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="92" y="69" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KR4HFn2Wtcdx5S1_QDzc-2" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="72" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KR4HFn2Wtcdx5S1_QDzc-3" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
