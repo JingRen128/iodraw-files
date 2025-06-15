@@ -13,7 +13,7 @@
         <mxCell id="i3uuFeNzvnSwONoEyJAx-2" value="员工列表组件" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="183" y="179" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i3uuFeNzvnSwONoEyJAx-3" value="Boundary Object" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i3uuFeNzvnSwONoEyJAx-3" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="183" y="265" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
