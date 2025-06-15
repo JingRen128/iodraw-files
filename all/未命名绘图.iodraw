@@ -15,6 +15,9 @@
         <mxCell id="i3uuFeNzvnSwONoEyJAx-1" value="添加员工页面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="183" y="90" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="i3uuFeNzvnSwONoEyJAx-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3uuFeNzvnSwONoEyJAx-2" target="i3uuFeNzvnSwONoEyJAx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i3uuFeNzvnSwONoEyJAx-2" value="员工列表组件" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="183" y="175" width="100" height="80" as="geometry" />
         </mxCell>
@@ -25,7 +28,7 @@
           <mxGeometry x="334" y="105" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i3uuFeNzvnSwONoEyJAx-5" value="信息验证" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="199" width="70" height="80" as="geometry" />
+          <mxGeometry x="334" y="207" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i3uuFeNzvnSwONoEyJAx-6" value="员工" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="467" y="133" width="80" height="80" as="geometry" />
@@ -40,6 +43,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i3uuFeNzvnSwONoEyJAx-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KR4HFn2Wtcdx5S1_QDzc-1" target="i3uuFeNzvnSwONoEyJAx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3uuFeNzvnSwONoEyJAx-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i3uuFeNzvnSwONoEyJAx-4" target="i3uuFeNzvnSwONoEyJAx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
