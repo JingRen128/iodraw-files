@@ -22,7 +22,7 @@
         <mxCell id="i3uuFeNzvnSwONoEyJAx-5" value="信息验证" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="199" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i3uuFeNzvnSwONoEyJAx-6" value="Entity Object" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i3uuFeNzvnSwONoEyJAx-6" value="员工" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="467" y="133" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
