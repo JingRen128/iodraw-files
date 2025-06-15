@@ -12,7 +12,7 @@
             <mxPoint x="332" y="150.20689655172413" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i3uuFeNzvnSwONoEyJAx-1" value="添加员工页面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i3uuFeNzvnSwONoEyJAx-1" value="员工详情页面" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="183" y="90" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i3uuFeNzvnSwONoEyJAx-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3uuFeNzvnSwONoEyJAx-2" target="i3uuFeNzvnSwONoEyJAx-4">
