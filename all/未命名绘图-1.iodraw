@@ -83,7 +83,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iu08DSo83FDeztY7j8So-33" value="输入用户名密码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontsize=10" vertex="1" connectable="0" parent="iu08DSo83FDeztY7j8So-31">
+        <mxCell id="iu08DSo83FDeztY7j8So-33" value="输入用户名密码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontsize=30" vertex="1" connectable="0" parent="iu08DSo83FDeztY7j8So-31">
           <mxGeometry x="0.3243" y="3" relative="1" as="geometry">
             <mxPoint x="-31" y="2" as="offset" />
           </mxGeometry>
