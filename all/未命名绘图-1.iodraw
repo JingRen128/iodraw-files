@@ -29,15 +29,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iu08DSo83FDeztY7j8So-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298" y="34" width="120" height="60" as="geometry" />
+          <mxGeometry x="278" y="34" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iu08DSo83FDeztY7j8So-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292" y="451" width="120" height="60" as="geometry" />
+          <mxGeometry x="272" y="451" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iu08DSo83FDeztY7j8So-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="354" y="451" as="sourcePoint" />
-            <mxPoint x="354" y="94" as="targetPoint" />
+            <mxPoint x="334" y="451" as="sourcePoint" />
+            <mxPoint x="334" y="94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iu08DSo83FDeztY7j8So-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
