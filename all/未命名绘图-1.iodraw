@@ -16,6 +16,11 @@
             <mxPoint x="92" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iu08DSo83FDeztY7j8So-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iu08DSo83FDeztY7j8So-5">
+          <mxGeometry x="0.6993" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iu08DSo83FDeztY7j8So-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="576" y="30" width="120" height="60" as="geometry" />
         </mxCell>
