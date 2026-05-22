@@ -2781,7 +2781,7 @@
         <mxCell id="guUIhj2i-lxOoav4PTyM-650" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;数据库服务器&lt;br&gt;MySQL&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="812.75" y="26774" width="1018" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="guUIhj2i-lxOoav4PTyM-651" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;JDBC Driver&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="guUIhj2i-lxOoav4PTyM-651" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;JDBC Driver&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1155" y="26712" width="165.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jQuszH8mRsh0E4xSm2KT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=26;fontColor=default;labelBackgroundColor=default;endArrow=none;" parent="1" source="guUIhj2i-lxOoav4PTyM-652" target="guUIhj2i-lxOoav4PTyM-657" edge="1">
