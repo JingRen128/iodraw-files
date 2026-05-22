@@ -3834,24 +3834,6 @@
         <mxCell id="70-pxx5MNpWT7aj-8o0H-9" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;车辆图片&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1956.38" y="28135" width="114.5" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="70-pxx5MNpWT7aj-8o0H-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.786;entryY=0.895;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" target="70-pxx5MNpWT7aj-8o0H-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1896.38" y="28278" as="sourcePoint" />
-            <mxPoint x="1946.38" y="28228" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70-pxx5MNpWT7aj-8o0H-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.568;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" target="70-pxx5MNpWT7aj-8o0H-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1924.88" y="28278" as="sourcePoint" />
-            <mxPoint x="1974.88" y="28228" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70-pxx5MNpWT7aj-8o0H-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.302;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" target="70-pxx5MNpWT7aj-8o0H-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1951.88" y="28278" as="sourcePoint" />
-            <mxPoint x="2001.88" y="28228" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="70-pxx5MNpWT7aj-8o0H-19" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;车辆规格&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2117.38" y="28233" width="206.5" height="48" as="geometry" />
         </mxCell>
@@ -3860,24 +3842,6 @@
         </mxCell>
         <mxCell id="70-pxx5MNpWT7aj-8o0H-21" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;车辆类型&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2091.88" y="28173" width="99" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="70-pxx5MNpWT7aj-8o0H-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.439;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" target="70-pxx5MNpWT7aj-8o0H-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1974.88" y="28278" as="sourcePoint" />
-            <mxPoint x="2024.88" y="28228" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70-pxx5MNpWT7aj-8o0H-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" target="70-pxx5MNpWT7aj-8o0H-19" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1977.88" y="28303" as="sourcePoint" />
-            <mxPoint x="2027.88" y="28253" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="70-pxx5MNpWT7aj-8o0H-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.434;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" target="70-pxx5MNpWT7aj-8o0H-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1965.88" y="28324" as="sourcePoint" />
-            <mxPoint x="2015.88" y="28274" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="70-pxx5MNpWT7aj-8o0H-26" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;使用状态&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1988.88" y="28417" width="135.5" height="87" as="geometry" />
@@ -4494,9 +4458,6 @@
             <mxPoint x="1274" y="28784" as="sourcePoint" />
             <mxPoint x="1324" y="28734" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="c4Web5zO7Z3L1PNZJ5F7-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1952" y="28222" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
