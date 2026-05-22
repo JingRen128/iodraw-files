@@ -542,20 +542,14 @@
             <mxPoint x="1648" y="3855" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jQuszH8mRsh0E4xSm2KT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=26;fontColor=default;labelBackgroundColor=default;endArrow=none;" parent="1" source="guUIhj2i-lxOoav4PTyM-125" target="jQuszH8mRsh0E4xSm2KT-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jQuszH8mRsh0E4xSm2KT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=26;fontColor=default;labelBackgroundColor=default;endArrow=none;" parent="1" source="guUIhj2i-lxOoav4PTyM-125" target="jQuszH8mRsh0E4xSm2KT-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jQuszH8mRsh0E4xSm2KT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=26;fontColor=default;labelBackgroundColor=default;endArrow=none;" parent="1" source="guUIhj2i-lxOoav4PTyM-125" target="guUIhj2i-lxOoav4PTyM-135" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-125" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;管理员综合管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="1178.5" y="7469" width="152.25" height="34" as="geometry" />
+          <mxGeometry x="1180.5" y="7469" width="152.25" height="34" as="geometry" />
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-135" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;用户登录&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="1189.5" y="7544" width="30" height="85" as="geometry" />
+          <mxGeometry x="1193" y="7544" width="30" height="85" as="geometry" />
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-145" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="1576.5" y="9558" width="120" height="60" as="geometry" />
