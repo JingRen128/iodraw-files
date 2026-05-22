@@ -543,7 +543,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-125" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;管理员综合管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="1182.5" y="7476" width="146" height="27" as="geometry" />
+          <mxGeometry x="1183.5" y="7476" width="146" height="27" as="geometry" />
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-135" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;用户登录&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="1193" y="7544" width="30" height="85" as="geometry" />
@@ -4493,6 +4493,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1037" y="9749" as="sourcePoint" />
             <mxPoint x="1110" y="9788" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c4Web5zO7Z3L1PNZJ5F7-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="guUIhj2i-lxOoav4PTyM-135" target="guUIhj2i-lxOoav4PTyM-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1125" y="7573" as="sourcePoint" />
+            <mxPoint x="1175" y="7523" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
