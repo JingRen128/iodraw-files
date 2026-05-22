@@ -543,7 +543,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-125" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;管理员综合管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="1185.75" y="7476" width="152.25" height="34" as="geometry" />
+          <mxGeometry x="1185.75" y="7476" width="152.25" height="27" as="geometry" />
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-135" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;用户登录&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="1193" y="7544" width="30" height="85" as="geometry" />
