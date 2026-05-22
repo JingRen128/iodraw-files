@@ -46,6 +46,9 @@
             <mxPoint x="355" y="238" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eMu5H4q0H71Ad6ouPWtv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eMu5H4q0H71Ad6ouPWtv-6" target="eMu5H4q0H71Ad6ouPWtv-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eMu5H4q0H71Ad6ouPWtv-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="313" y="185" width="106" height="45" as="geometry" />
         </mxCell>
