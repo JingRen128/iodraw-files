@@ -543,7 +543,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-125" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;管理员综合管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="1183.5" y="7476" width="146" height="27" as="geometry" />
+          <mxGeometry x="1184.5" y="7476" width="146" height="27" as="geometry" />
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-135" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;用户登录&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="1193" y="7544" width="30" height="85" as="geometry" />
@@ -4327,7 +4327,7 @@
           <mxGeometry x="1289.25" y="7544" width="30" height="85" as="geometry" />
         </mxCell>
         <mxCell id="jQuszH8mRsh0E4xSm2KT-15" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;角色管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="1241.5" y="7544" width="30" height="85" as="geometry" />
+          <mxGeometry x="1242.5" y="7544" width="30" height="85" as="geometry" />
         </mxCell>
         <mxCell id="k_QlnEjGldTUXHOfVg5e-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;n&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1055" y="32979" width="60" height="30" as="geometry" />
@@ -4507,7 +4507,7 @@
             <mxPoint x="1177" y="7658" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4Web5zO7Z3L1PNZJ5F7-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="guUIhj2i-lxOoav4PTyM-125">
+        <mxCell id="c4Web5zO7Z3L1PNZJ5F7-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="jQuszH8mRsh0E4xSm2KT-14" target="guUIhj2i-lxOoav4PTyM-125">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1360" y="7747" as="sourcePoint" />
             <mxPoint x="1410" y="7697" as="targetPoint" />
