@@ -543,7 +543,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-125" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;物流业务&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="1211.5" y="7477" width="146" height="27" as="geometry" />
+          <mxGeometry x="1184.5" y="7476" width="146" height="27" as="geometry" />
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-135" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;客户下单&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="1194" y="7544" width="30" height="85" as="geometry" />
@@ -4501,7 +4501,7 @@
             <mxPoint x="1175" y="7523" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4Web5zO7Z3L1PNZJ5F7-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="c4Web5zO7Z3L1PNZJ5F7-19" target="guUIhj2i-lxOoav4PTyM-125">
+        <mxCell id="c4Web5zO7Z3L1PNZJ5F7-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jQuszH8mRsh0E4xSm2KT-15" target="guUIhj2i-lxOoav4PTyM-125">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1127" y="7708" as="sourcePoint" />
             <mxPoint x="1177" y="7658" as="targetPoint" />
@@ -4511,15 +4511,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1360" y="7747" as="sourcePoint" />
             <mxPoint x="1410" y="7697" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c4Web5zO7Z3L1PNZJ5F7-19" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;订单管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1338" y="7544" width="30" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="c4Web5zO7Z3L1PNZJ5F7-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="jQuszH8mRsh0E4xSm2KT-15" target="guUIhj2i-lxOoav4PTyM-125">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1324" y="7660" as="sourcePoint" />
-            <mxPoint x="1374" y="7610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
