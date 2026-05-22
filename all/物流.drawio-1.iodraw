@@ -458,7 +458,7 @@
         <mxCell id="guUIhj2i-lxOoav4PTyM-105" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: Calibri;&quot;&gt;客户管理&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="2007.5" y="2328" width="295" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="guUIhj2i-lxOoav4PTyM-106" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: Calibri;&quot;&gt;数据统计看板&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
+        <mxCell id="guUIhj2i-lxOoav4PTyM-106" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: Calibri;&quot;&gt;订单管理&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="2016" y="2462" width="295" height="128" as="geometry" />
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-107" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=26;" parent="1" source="guUIhj2i-lxOoav4PTyM-106" edge="1">
@@ -467,7 +467,7 @@
             <mxPoint x="1650" y="2758" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="guUIhj2i-lxOoav4PTyM-108" value="车辆信息管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
+        <mxCell id="guUIhj2i-lxOoav4PTyM-108" value="司机管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="2007.5" y="2601" width="295" height="128" as="geometry" />
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-109" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=26;" parent="1" source="guUIhj2i-lxOoav4PTyM-108" edge="1">
