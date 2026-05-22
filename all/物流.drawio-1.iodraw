@@ -4498,8 +4498,8 @@
         <mxCell id="c4Web5zO7Z3L1PNZJ5F7-35" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;车辆ID&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1510.5" y="28806" width="111.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="c4Web5zO7Z3L1PNZJ5F7-36" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;订单号&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1352" y="28754" width="111.5" height="70" as="geometry" />
+        <mxCell id="c4Web5zO7Z3L1PNZJ5F7-36" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;运输距离&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="925.5" y="28546" width="111.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
