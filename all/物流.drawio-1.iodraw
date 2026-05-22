@@ -2715,7 +2715,7 @@
         <mxCell id="guUIhj2i-lxOoav4PTyM-628" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="815.25" y="25658" width="1014.75" height="133" as="geometry" />
         </mxCell>
-        <mxCell id="guUIhj2i-lxOoav4PTyM-629" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Web浏览器&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="guUIhj2i-lxOoav4PTyM-629" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Web浏览器&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1225.5" y="25688" width="250.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-630" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;IE/Chrome/firefox&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
