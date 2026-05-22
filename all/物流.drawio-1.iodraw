@@ -456,10 +456,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-105" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: Calibri;&quot;&gt;客户管理&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="2007.5" y="2328" width="295" height="128" as="geometry" />
+          <mxGeometry x="2019" y="2325" width="295" height="128" as="geometry" />
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-106" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: Calibri;&quot;&gt;订单管理&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="2016" y="2462" width="295" height="128" as="geometry" />
+          <mxGeometry x="2016.5" y="2461" width="295" height="128" as="geometry" />
         </mxCell>
         <mxCell id="guUIhj2i-lxOoav4PTyM-107" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=26;" parent="1" source="guUIhj2i-lxOoav4PTyM-106" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
