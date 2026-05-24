@@ -4462,7 +4462,7 @@
         <mxCell id="WwpNtd--pcmRaOmHuZsK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="714" y="239" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qVgoex2zJhIWpZcnv7ZP-2" value="&lt;font face=&quot;宋体&quot;&gt;订单查询&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+        <mxCell id="qVgoex2zJhIWpZcnv7ZP-2" value="&lt;font face=&quot;宋体&quot;&gt;服务评价&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="2037.5" y="4661" width="295" height="128" as="geometry" />
         </mxCell>
       </root>
