@@ -4465,10 +4465,10 @@
         <mxCell id="qVgoex2zJhIWpZcnv7ZP-2" value="&lt;font face=&quot;宋体&quot;&gt;服务评价&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="2033.88" y="4586" width="295" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="qVgoex2zJhIWpZcnv7ZP-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qVgoex2zJhIWpZcnv7ZP-2" target="guUIhj2i-lxOoav4PTyM-556">
+        <mxCell id="qVgoex2zJhIWpZcnv7ZP-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qVgoex2zJhIWpZcnv7ZP-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1681" y="4836" as="sourcePoint" />
-            <mxPoint x="1901" y="4554" as="targetPoint" />
+            <mxPoint x="1891" y="4510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
